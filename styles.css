@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#container {
+    border: 2px solid black;
+    display: flex;
+    width: 600px;
+    height: 600px;
+    flex-wrap: wrap;
+}
